@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rKapuwKAwA9keH7W7ICx5LmWOdy+KvTSIODgbTuF1Pi1ZPM9t+EWUu0JQ8IpthLugJs8KkBFqhdR7ml6R5t16g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali\\source\\repos\\SimpleWebCrawler\\SimpleWebCrawler\\SimpleWebCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512"
+  ],
+  "logs": []
+}
